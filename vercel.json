@@ -11,6 +11,5 @@
       "src": "/Router/(.*)",
       "dest": "/"
     }
-  ],
-  "rewrites": [{ "source": "src/index.js", "destmation": "src/index" }]
+  ]
 }
